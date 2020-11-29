@@ -9,5 +9,5 @@
 <h2> I set up Poll SCM on Jenkins and I am adding this line so Jenkins will automatically<br>
 	build the job, then create an image from the job and a container from the image</h2>
 
-<h2> This is a test to see if adding this sentence to the code will trigger Jenkins to build <br>
+<h2> This is a test  2ee if adding this sentence to the code will trigger Jenkins to build <br>
 	the job after the change, then Ansible will deploy the artifact to create an image, then a container</h2>
